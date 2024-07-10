@@ -1,0 +1,10 @@
+*{
+    font-family: "Wittgenstein", serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+}
+nav h1{
+    text-shadow: 2px 5px 5px rgba(0, 0, 0, 0.595); 
+}
